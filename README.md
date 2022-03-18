@@ -15,8 +15,13 @@ Recursion初心者チーム開発メンバーに説明するためのリポジ�
 gitworkshopリポジトリを課題用の名前に変更してください。<br>
 
 
-4. 課題を作成する用のリモートリポジトリの作成が完了したら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。こちらの[リンク](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
+3. 課題を作成する用のリモートリポジトリの作成が完了したら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。こちらの[リンク](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
 
+### 完成後イメージ
+
+![Screen Shot 2022-03-18 at 8 47 43](https://user-images.githubusercontent.com/66197642/159036205-b293a02c-6f7f-48ae-a3d1-b2e8b92e5a51.png)
+
+このようにデフォルトの表示がdevelopに変わっていたら成功です。<br>
 
 以上で事前準備は完了です。<br><br>
 
