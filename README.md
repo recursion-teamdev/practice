@@ -5,7 +5,7 @@ Recursion初心者チーム開発メンバーに説明するためのリポジ�
 
 以下、チームリーダーに事前に行っていただくこと
 
-1. こちらの[リンク](https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)を参考にGitHub上で新しいOraganizationを作成してください。チームメンバーの招待はワークショップ当日に行っていただくので現時点では招待しなくても大丈夫です。Organizationの名前はDiscord上でのチーム名にしましょう。
+1. こちらの[リンク](https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)を参考にGitHub上で新しいOraganizationを作成してください。また、チームメンバーを招待してwrite権限を付与してください。Organizationの名前はDiscord上でのチーム名にしましょう。
 2. 課題を作成する用のリモートリポジトリとGitの操作を練習するPracticeリポジトリを作成してください。
 
 ### 完成後イメージ
