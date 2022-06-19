@@ -20,7 +20,8 @@
 
  このようにOrganizationが2つリポジトリを持つようにしてください。
  gitworkshopリポジトリを課題用の名前に変更してください。<br>
-
+ 
+ NOTE: 上のスクリーンショットではgitworkshopリポジトリがPrivateリポジトリになっていますが、Publicリポジトリとして作成してください。<br>
 
  4. 課題を作成する用のリモートリポジトリの作成が完了したら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。こちらの[リンク](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
 
