@@ -22,9 +22,9 @@
  gitworkshopリポジトリを課題用の名前に変更してください。<br>
 
 
- 3. 課題を作成する用のリモートリポジトリの作成が完了したら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。こちらの[リンク](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
+ 4. 課題を作成する用のリモートリポジトリの作成が完了したら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。こちらの[リンク](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
 
- 4. 各リポジトリにindex.htmlおよびstyles.cssの2つのファイルを作成してください。中身は空で構いません。ファイルは右上の「Add file」ボタンから追加できます。
+ 5. 各リポジトリにindex.htmlおよびstyles.cssの2つのファイルを作成してください。中身は空で構いません。ファイルは右上の「Add file」ボタンから追加できます。
 
  ### 完成後イメージ
 
