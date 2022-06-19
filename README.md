@@ -1,3 +1,7 @@
+
+# practice
+練習用リポジトリ
+
 # Recursion Git-workshop
 Recursion初心者チーム開発メンバーに説明するためのリポジトリ
 
