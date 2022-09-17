@@ -34,6 +34,8 @@
  このようにデフォルトの表示がdevelopに変わっていたら成功です。<br>
 
  以上で事前準備は完了です。<br><br>
+ 
+ [余裕があればこちらも事前に確認しておくことをおすすめします](https://github.com/recursion-teamdev/git-workshop/edit/main/teamleader.md)
 
  ご質問やご不明点がある場合は、このリポジトリ内で同じことを行っているのでそちらを見ていただくか、メンターにご連絡ください。<br>
 
