@@ -11,7 +11,7 @@
 
  1. こちらの[リンク](https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)を参考にGitHub上で新しいOraganizationを作成してください。Organizationの名前はDiscord上でのチーム名にしましょう。
 
- 2. Discord上でGithubのユーザ名を聞き、チームメンバーを招待してこちらの[リンク](https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b)を参考に「owner」権限を付与してください。
+ 2. Discord上でチームメンバーのGithubのユーザ名を聞き、招待してこちらの[リンク](https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b)を参考に「owner」権限を付与してください。
 
  3. 課題を作成する用のリモートリポジトリとGitの操作を練習するPracticeリポジトリを作成してください。
 
