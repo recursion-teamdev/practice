@@ -36,6 +36,7 @@
  以上で事前準備は完了です。<br><br>
  
  余裕があれば、こちらも事前に目を通していただけると助かります。
+ 
  [チームリーダーの方へ](https://github.com/recursion-teamdev/git-workshop/blob/main/teamleader.md)
 
  ご質問やご不明点がある場合は、このリポジトリ内で同じことを行っているのでそちらを見ていただくか、メンターにご連絡ください。<br>
