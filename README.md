@@ -9,13 +9,15 @@
 
  以下、チームリーダーに事前に行っていただくこと
 
- 1. GitHub上で新しいOraganizationを作成してください。Organizationの名前はDiscord上でのチーム名にしましょう。  
+ 1. GitHub上で新しいOraganizationを作成してください。Organizationの名前はお任せしますが、Discord上で振り分けられたチーム名を含むようにしてください。  
+ 例）redチームの場合、teamdev-red, red-team, recursion-redなど  
  参考リンク：  
  [リンク1](https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
- [リンク2](https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b)
  
 
- 2. Discord上でチームメンバーのGithubのユーザ名を聞き、招待してこちらの[リンク](https://zenn.dev/acha_n/scraps/345f9fd5028faa)を参考に「owner」権限を付与してください。参考リンク: https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b
+ 2. Discord上でチームメンバーのGithubのユーザ名を聞き、招待してこちらの[リンク](https://zenn.dev/acha_n/scraps/345f9fd5028faa)を参考に「owner」権限を付与してください。　　
+ 参考リンク: 
+ [リンク1](https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b)
 
  3. 課題を作成する用のリモートリポジトリとGitの操作を練習するPracticeリポジトリを作成してください。
 
@@ -23,13 +25,15 @@
  ![Screen Shot 2022-03-18 at 8 42 12](https://user-images.githubusercontent.com/66197642/159035170-a125c64c-ed34-480a-9467-fc4150a3ff1c.png)
 
  このようにOrganizationが2つリポジトリを持つようにしてください。
- gitworkshopリポジトリを課題用の名前に変更してください。<br>
+ gitworkshopリポジトリは後日取り組む課題が決まったら、そちらの課題に合う名前に変更してください。<br>
  
  NOTE: 上のスクリーンショットではgitworkshopリポジトリがPrivateリポジトリになっていますが、Publicリポジトリとして作成してください。<br>
 
- 4. 課題を作成する用のリモートリポジトリの作成が完了したら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。こちらの[リンク](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
-
- 5. 各リポジトリにindex.htmlおよびstyles.cssの2つのファイルを作成してください。中身は空で構いません。ファイルは右上の「Add file」ボタンから追加できます。
+ 4. 課題のためのリポジトリが作成できましたら、developブランチを作成し、masterブランチへpushしてしまうことを防ぐためにdevelopブランチをデフォルトに設定しておきましょう。  
+ 参考リンク:　
+ [リンク1](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)を参照してください。
+ 
+ 5. 各リポジトリにindex.htmlおよびstyles.cssの2つのファイルを作成してください。中身は空で構いません。ファイルは右上の「Add file」ボタンからでも追加できます。
 
  ### 完成後イメージ
 
