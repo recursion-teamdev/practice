@@ -9,7 +9,11 @@
 
  以下、チームリーダーに事前に行っていただくこと
 
- 1. こちらの[リンク](https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)を参考にGitHub上で新しいOraganizationを作成してください。Organizationの名前はDiscord上でのチーム名にしましょう。
+ 1. GitHub上で新しいOraganizationを作成してください。Organizationの名前はDiscord上でのチーム名にしましょう。  
+ 参考リンク：  
+ [リンク1](https://docs.github.com/ja/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
+ [リンク2](https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b)
+ 
 
  2. Discord上でチームメンバーのGithubのユーザ名を聞き、招待してこちらの[リンク](https://zenn.dev/acha_n/scraps/345f9fd5028faa)を参考に「owner」権限を付与してください。参考リンク: https://qiita.com/w_tkmn/items/ee16bf16715f4bbcbd9b
 
